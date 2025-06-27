@@ -12,7 +12,7 @@ This repository is based on PyTorch 1.7.0, CUDA 12.2 and Python 3.6.5. All exper
 
 # Dataset
 
-Data could be got at [ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC) and [Brats](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC).
+Data could be got at [ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC) and [Brats]([https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC].
 
 # Training
 

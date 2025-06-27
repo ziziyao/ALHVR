@@ -1,4 +1,4 @@
-![2025绘图](https://github.com/user-attachments/assets/6df3131f-d8af-49e8-8f65-c9734e0a8816)# Adaptive Learning of High-Value Regions for Semi-Supervised Medical Image Segmentation
+# Adaptive Learning of High-Value Regions for Semi-Supervised Medical Image Segmentation
 
 by Tao Lei, ZiYao Yang, Xingwu wang, Yi Wang, Xuan Wang, FeimanSun, Asoke K. Nandi
 

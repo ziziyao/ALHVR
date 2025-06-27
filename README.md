@@ -1,6 +1,6 @@
 # Adaptive Learning of High-Value Regions for Semi-Supervised Medical Image Segmentation
 
-by Tao Lei, ZiYao Yang, Xingwu wang, Yi Wang, Xuan Wang, FeimanSun, Asoke K. Nandi
+by Tao Lei, Ziyao Yang, Xingwu Wang, Yi Wang, Xuan Wang, Feiman Sun, Asoke K. Nandi
 
 # Introduction
 

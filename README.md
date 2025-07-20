@@ -16,11 +16,13 @@ Data could be got at [ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/dat
 
 # Training
 
-pyhon train_ALHVR_acdc.py
+python train_ALHVR_acdc.py
+python train_ALHVR_brats.py
 
 # Testing
 
-pyhon test_2d.py
+python test_acdc.py
+python test_brats.py
 
 # Acknowledgements
 Our code is adapted from CCT, MC-Net, UPCoL and SSL4MIS. Thanks for these authors for their valuable works and hope our model can promote the relevant research as well.

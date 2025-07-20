@@ -17,11 +17,13 @@ Data could be got at [ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/dat
 # Training
 
 python train_ALHVR_acdc.py
+
 python train_ALHVR_brats.py
 
 # Testing
 
 python test_acdc.py
+
 python test_brats.py
 
 # Acknowledgements
